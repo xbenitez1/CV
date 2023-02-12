@@ -1,0 +1,268 @@
+body {
+  font-family: 'Merriweather Sans', sans-serif;
+  display: flex;
+  margin: 0;
+  padding: 0;
+}
+
+.hr {
+    width: 70%;
+}
+
+.head {
+  position: relative;
+  height: 40rem;
+  width: 100%;
+  background: content-box radial-gradient(#301E67, black);
+}
+
+.name {
+  margin: 0;
+  font-family: Georgia, Times, 'Times New Roman', serif;
+  font-size: 4rem;
+  position: relative;
+  color: white;
+  text-align: center;
+  padding-top: 15rem;
+}
+
+.name_descrip {
+  font-family: 'Merriweather Sans', sans-serif;
+  font-size: 1.5rem;
+  position: relative;
+  color: white;
+  text-align: center;
+}
+
+.info {
+  margin-top: 16rem;
+  position: relative;
+  height: 12rem;
+  width: 100%;
+  background: white;
+}
+
+.foto {
+  position: relative;
+  left: 35%;
+  padding-top: 2rem;
+  width: 10rem;
+}
+
+.data {
+  padding: .2rem;
+  padding-left: 1rem;
+  background: white;
+  margin-top: -10rem;
+  margin-left: 54%;
+  position: absolute;
+  border: 1px solid rgba(48, 30, 103, 2);
+  box-shadow: 10px 5px 5px #609EA2;
+  border-style: groove;
+  border-color: #301E67;
+}
+
+.about_me {
+    background: white;
+    height 30rem;
+    margin-left: 45%;
+}
+
+.description {
+    margin-left: -69%;
+}
+
+.Skills_t {
+  font-size: 2rem;
+  margin-left: 38%;
+  margin-top: 6.5rem;
+  position: absolute;
+  box-shadow: 10px 5px 5px #609EA2;
+  border-style: groove;
+  border-color: #301E67;
+}
+
+.skills_l {
+  padding: 1rem;
+  padding-left: 2rem;
+  background: white;
+  margin-top: 9rem;
+  margin-left: 42%;
+  position: absolute;
+  box-shadow: 10px 5px 5px #609EA2;
+  border-style: groove;
+  border-color: #301E67;
+}
+
+.hobbies_t {
+  font-size: 2rem;
+  margin-left: 38%;
+  margin-top: 55rem;
+  position: absolute;
+  border-style: groove;
+  box-shadow: 10px 5px 5px #609EA2;
+  border-color: #301E67;
+}
+
+.hobbies_l {
+  padding: 1rem;
+  padding-left: 2rem;
+  background: white;
+  margin-top: 57.5rem;
+  margin-left: 42%;
+  position: absolute;
+  border-style: groove;
+  box-shadow: 10px 5px 5px #609EA2;
+  border-color: #301E67;
+}
+
+.languages_t {
+  font-size: 2rem;
+  margin-left: 38%;
+  margin-top: 22.5rem;
+  position: absolute;
+  border-style: groove;
+  box-shadow: 10px 5px 5px #609EA2;
+  border-color: #301E67;
+}
+
+.languages_l {
+  padding: 1rem;
+  padding-left: 2rem;
+  background: white;
+  margin-top: 25rem;
+  margin-left: 42%;
+  position: absolute;
+  border-style: groove;
+  box-shadow: 10px 5px 5px #609EA2;
+  border-color: #301E67;
+}
+
+.software_t {
+  font-size: 2rem;
+  margin-top: 33rem;
+  margin-left: 38%;
+  position: absolute;
+  border-style: groove;
+  box-shadow: 10px 5px 5px #609EA2;
+  border-color: #301E67;
+}
+
+.software_l {
+  padding: 1rem;
+  padding-left: 2rem;
+  background: white;
+  margin-top: 35.5rem;
+  margin-left: 42%;
+  position: absolute;
+  border-style: groove;
+  box-shadow: 10px 5px 5px #609EA2;
+  border-color: #301E67;
+}
+
+.experience {
+  padding: .5rem;
+  color: white;
+  font-size: 2rem;
+  position: absolute;
+  border-style: groove;
+  margin-top: 80rem;
+  margin-left: 60%;
+  border-color: #301E67;
+  box-shadow: 10px 5px 5px #609EA2;
+  background: #176ed1;
+}
+
+.experience_l {
+  margin: 10rem;
+  width: 100%;
+  height: 60rem;
+  margin: 0rem;
+  padding-left: 2rem;
+  background: #301E67;
+  color: white;
+}
+
+.Enterprise {
+  margin-top: 2rem;
+  margin-bottom: 0rem;
+}
+
+.Enterprise_city {
+  margin: 0rem;
+}
+
+.studies {
+  padding: .5rem;
+  color: white;
+  font-size: 2rem;
+  position: absolute;
+  border-style: groove;
+  margin-top: 80rem;
+  margin-left: 30%;
+  border-color: #301E67;
+  box-shadow: 10px 5px 5px #609EA2;
+  background: #176ed1;
+}
+
+.studies_l {
+  margin: 0;
+  width: 100%;
+  height: 60rem;
+  margin: 0rem;
+  padding-left: 2rem;
+  background:white;
+  background: #301E67;
+  color: white;
+}
+
+.studies_n {
+  margin-top: 2rem;
+  margin-bottom: 0rem;
+}
+
+.info_studies {
+  margin: 0rem;
+}
+
+.bottom {
+  color: white;
+  margin-top: 100rem;
+  background: #301E67;
+  height: 15rem;
+  width: 100%;
+  position: absolute;
+}
+
+.contact {
+  position: absolute;
+  margin-left: 46%;
+}
+
+.mails {
+  margin: 0rem;
+  margin-left: -10%;
+}
+
+.footer{
+    position:absolute;
+    margin-top: 5rem;
+    font-size: .5rem
+}
+
+.python-logo {
+  position: absolute;
+  width: 10rem;
+  left: 45%;
+  top: 15%;
+  animation: move-python 5s;
+}
+
+@keyframes move-python {
+  0% {
+    width: 0rem;
+  }
+  100% {
+    width: 10rem;
+  }
+}
